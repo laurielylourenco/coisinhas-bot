@@ -14,7 +14,7 @@ Certifique-se de ter os seguintes pré-requisitos instalados antes de executar o
 
 ## Configuração
 
-Antes de executar o bot, você precisa configurar algumas informações no arquivo `.env`. Copie o conteúdo do arquivo `config_sample.py` para um novo arquivo chamado `config.py` e preencha as variáveis com as suas credenciais e configurações:
+Antes de executar o bot, você precisa configurar algumas informações no arquivo `.env`. Preencha as variáveis com as suas credenciais e configurações:
 
 ```python
 # config.py
